@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinsharma01" alt="sachinsharma01" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms and Node Js**
+- 🌱 I’m currently learning **Data Structures and Algorithms and Fullstack Development**
 
 - 📝 I regularly write articles on [codersachin006.blogspot.com](codersachin006.blogspot.com)
 
