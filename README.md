@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinsharma01&label=Profile%20views&color=0e75b6&style=flat" alt="sachinsharma01" /> </p>
 
 
-<p align="center"><img width="300" height="300" src="https://mymarketplacebuilder.com/wp-content/uploads/2022/02/coding-1.gif" /></p>
+<p align="center"><img width="500" height="500" src="https://mymarketplacebuilder.com/wp-content/uploads/2022/02/coding-1.gif" /></p>
 
 
 
