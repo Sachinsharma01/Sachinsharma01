@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sachin Sharma</h1>
-<h3 align="center">A passionate programmer learner from India</h3>
+<h3 align="center">I am an Exception in Main Threa!!😎</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinsharma01&label=Profile%20views&color=0e75b6&style=flat" alt="sachinsharma01" /> </p>
+<p align="left" color="red"> <img src="https://komarev.com/ghpvc/?username=sachinsharma01&label=Profile%20views&color=0e75b6&style=flat" alt="sachinsharma01" /> </p>
 
 
 <p align="center"><img width="500" height="350" src="https://mymarketplacebuilder.com/wp-content/uploads/2022/02/coding-1.gif" /></p>
