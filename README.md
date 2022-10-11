@@ -45,7 +45,7 @@
 
 ###
 <div align="center">
-<img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in" />
+  <img height="200" src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in" />
 </div>
 <br clear="both">
 
