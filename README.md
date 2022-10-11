@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋! Welcome to Sachin Sharma's Profile</h2>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer+From+India;A+Passionate+Learner;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer+From+India;A+Passionate+Learner)](https://git.io/typing-svg)
 
 ###
 
