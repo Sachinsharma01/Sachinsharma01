@@ -1,8 +1,9 @@
 <h2 align="center">Hi 👋! Welcome to Sachin Sharma's Profile</h2>
 
-<div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=551A8B&width=435&lines=Software+Engineer+From+India;Full+Stack+Developer+;And+A+Passionate+Learner)](https://git.io/typing-svg)
+<p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=551A8B&width=435&lines=Software+Engineer+From+India;Full+Stack+Developer+;And+A+Passionate+Learner" alt="Typing SVG" /></a>
 </div>
+
 ###
 
 <h3 align="center">I am an Exception in Main Threat!! 😎</h3>
