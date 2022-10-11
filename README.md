@@ -1,45 +1,70 @@
-<h1 align="center">Hi 👋, I'm Sachin Sharma</h1>
-<h3 align="center">I am an Exception in Main Threa!!😎</h3>
+<h2 align="left">Hi 👋! My name is Sachin Sharma and I'm a Software Engineer, from India.</h2>
 
-<p align="left" color="red"> <img src="https://komarev.com/ghpvc/?username=sachinsharma01&label=Profile%20views&color=0e75b6&style=flat" alt="sachinsharma01" /> </p>
+###
 
+<h3 align="center">I am an Exception in Main Threat!! 😎</h3>
 
-<p align="center"><img width="500" height="350" src="https://mymarketplacebuilder.com/wp-content/uploads/2022/02/coding-1.gif" /></p>
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&username=Sachinsharma01" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Sachinsharma01" height="150" alt="languages graph"  />
+</div>
 
+###
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" width="42" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" width="42" alt="firebase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="42" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"  />
+</div>
 
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinsharma01" alt="sachinsharma01" /></a> </p>
+<div align="center">
+  <a href="https://www.youtube.com/sachinsharma" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="iarpit_sharam_006" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="sachin2252sharma@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms and Fullstack Development**
+###
 
-- 📝 I regularly write articles on [codersachin006.blogspot.com](codersachin006.blogspot.com)
+<br clear="both">
 
-- 💬 Ask me about **java**
+<img src="https://raw.githubusercontent.com/Sachinsharma01/Sachinsharma01/blob/output/snake.svg" alt="Snake animation" />
 
-- 📫 How to reach me **sachin2252sharma@gmail.com**
+###
 
-- ⚡ Fun fact **I love PHP**
+<div align="center">
+  <img height="200" src="https://camo.githubusercontent.com/a931bcc29ac7063fce21e7ee8ebc65607391edfc7703cca006bc3d57d9ceb761/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d73616368696e736861726d61303126"  />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/sachinsharma01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="sachinsharma01" height="30" width="40" /></a>
-<a href="https://fb.com/arpitsharma sharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="arpitsharma sharma" height="30" width="40" /></a>
-<a href="https://instagram.com/@iarpit_sharma_001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@iarpit_sharma_001" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/coder sachin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="coder sachin" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sachin006" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sachin006" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sachin sharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sachin sharma" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sachin_sharma_2252" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="sachin_sharma_2252" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@sachin_sharma006" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@sachin_sharma006" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img height="" src="https://github-profile-trophy.vercel.app/?username=Sachinsharma01&margin-w=40&margin-h=5"  />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinsharma01&show_icons=true&locale=en&layout=compact" alt="sachinsharma01" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachinsharma01&show_icons=true&locale=en" alt="sachinsharma01" /></p>
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Sachinsharma01.Sachinsharma01&left_color=steelblue&right_color=rebeccapurple"  />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinsharma01&" alt="sachinsharma01" /></p>
-
+###
