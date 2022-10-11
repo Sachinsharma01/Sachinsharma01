@@ -58,7 +58,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/a931bcc29ac7063fce21e7ee8ebc65607391edfc7703cca006bc3d57d9ceb761/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d73616368696e736861726d61303126"  />
+  <img height="200" src="https://streak-stats.demolab.com?user=Sachinsharma01&theme=midnight-purple&hide_border=true&border_radius=10&background=DD272700"  />
 </div>
 
 ###
