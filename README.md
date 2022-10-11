@@ -47,6 +47,22 @@
 </div>
 
 
+## 📘 My top open source projects
+
+<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+<p align="left">
+  <a href="https://github.com/Sachinsharma01/find-places"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sachinsharma01&repo=find-places&theme=midnight-purple&bg_color=DD272700&title_color=9746F5&icon_color=9746F5&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/Sachinsharma01/quiz-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sachinsharma01&repo=quiz-app&theme=midnight-purple&bg_color=DD272700&title_color=9746F5&icon_color=9746F5&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/Sachinsharma01/credit-card-validator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sachinsharma01&repo=credit-card-validator&theme=midnight-purple&bg_color=DD272700&title_color=9746F5&icon_color=9746F5&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/Sachinsharma01/Expense-tracker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sachinsharma01&repo=Expense-tracker&theme=midnight-purple&bg_color=DD272700&title_color=9746F5&icon_color=9746F5&show_icons=true" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/Sachinsharma01/country-data-react"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sachinsharma01&repo=country-data-react&theme=midnight-purple&bg_color=DD272700&title_color=9746F5&icon_color=9746F5&show_icons=false" alt="github-readme-streak-stats"></a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/Sachinsharma01?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
+
 
 ## 📕 Top projects I've contributed to
 
@@ -61,7 +77,7 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/Sachinsharma01/My-Contributions/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
+  <a href="https://github.com/Sachinsharma01/Sachinsharma01/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
 </p>
 
 ###
