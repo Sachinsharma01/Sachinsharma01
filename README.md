@@ -1,4 +1,5 @@
-<h2 align="center">Hi 👋! My name is Sachin Sharma and I'm a Software Engineer, from India.</h2>
+<h2 align="center">Hi 👋! Welcome to Sachin Sharma's Profile</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer+From+India;A+Passionate+Learner;Full+Stack+Developer)](https://git.io/typing-svg)
 
 ###
 
