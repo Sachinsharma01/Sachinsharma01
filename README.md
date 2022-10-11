@@ -44,8 +44,9 @@
 </div>
 
 ###
-<img align="center" src="https://github-readme-quotes.herokuapp.com/quote?theme=light&animation=grow_out_in" />
-
+<div align="center">
+<img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in" />
+</div>
 <br clear="both">
 
 ![Snake animation](https://github.com/Sachinsharma01/Sachinsharma01/blob/output/github-contribution-grid-snake.svg)
