@@ -58,7 +58,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://streak-stats.demolab.com?user=Sachinsharma01&theme=midnight-purple&hide_border=true&border_radius=10&background=DD272700"  />
+  <img height="200" src="https://streak-stats.demolab.com?user=Sachinsharma01&theme=midnight-purple&border_radius=10&background=DD272700"  />
 </div>
 
 ###
