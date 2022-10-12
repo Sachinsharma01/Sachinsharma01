@@ -117,8 +117,8 @@
 ## 📊 Github stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&bg_color=DD272700&username=Sachinsharma01" style="margin-right: 20px;" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&bg_color=DD272700&hide_border=false&username=Sachinsharma01" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&bg_color=DD272700&username=Sachinsharma01" style="margin-right: 20px;" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&bg_color=DD272700&hide_border=false&username=Sachinsharma01" height="150" alt="languages graph"  />
 </div>
 <br />
 <br />
