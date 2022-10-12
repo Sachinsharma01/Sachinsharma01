@@ -86,7 +86,7 @@
 ## 🔥 Streak stats
 
 <div align="center">
-  <img height="200" src="https://streak-stats.demolab.com?user=Sachinsharma01&theme=aura&border_radius=10&background=DD272700"  />
+  <img height="200" src="https://streak-stats.demolab.com?user=Sachinsharma01&theme=midnight-purple&border_radius=10&background=DD272700"  />
 </div>
 
 ###
