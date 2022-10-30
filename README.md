@@ -44,8 +44,6 @@
 
 ## 📘 My top open source projects
 
-<!-- visit these links and support -->
-
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
@@ -133,8 +131,3 @@
 </div>
 
 ###
-
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Sachinsharma01.Sachinsharma01&left_color=steelblue&right_color=rebeccapurple"  />
-</div>
