@@ -76,9 +76,8 @@
 </p>
 
 ###
-<!-- <div align="center">
-  <img height="200" src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in" />
-</div> -->
+## My Badges
+[![@sachinsharma01's Holopin board](https://holopin.me/sachinsharma01)](https://holopin.io/@sachinsharma01)
 <br clear="both">
 
 
