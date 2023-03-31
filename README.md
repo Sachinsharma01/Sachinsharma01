@@ -126,7 +126,7 @@
 ###
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Sachinsharma01.Sachinsharma01&left_color=steelblue&right_color=rebeccapurple"  />
+  [![Sachin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sachinsharma01&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 ###
