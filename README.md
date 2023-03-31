@@ -126,7 +126,7 @@
 ###
 
 <div align="left">
-  [![Sachin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sachinsharma01&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  (https://github-readme-activity-graph.cyclic.app/graph?username=Sachinsharma01&theme=github-compact)
 </div>
 
 ###
