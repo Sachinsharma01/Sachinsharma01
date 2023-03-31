@@ -41,10 +41,10 @@
   </a>
 </div>
 
-div align="left">
+<div align="left">
   <img src='https://metrics.lecoq.io/Sachinsharma01' />
 </div>
-div align="right">
+<div align="right">
   <img src='https://github-readme-activity-graph.cyclic.app/graph?username=Sachinsharma01&theme=github-compact' />
 </div>
 
