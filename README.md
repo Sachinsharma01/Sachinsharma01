@@ -41,13 +41,6 @@
   </a>
 </div>
 
-<div align="left">
-  <img src='https://metrics.lecoq.io/Sachinsharma01' />
-</div>
-<div align="right">
-  <img src='https://github-readme-activity-graph.cyclic.app/graph?username=Sachinsharma01&theme=github-compact' />
-</div>
-
 
 ## 📘 My top open source projects
 
@@ -128,7 +121,9 @@
 </div>
 <br />
 <br />
-
+<div align="center">
+  ![GitHub metrics](https://metrics.lecoq.io/Sachinsharma01) 
+</div>
 ###
 
 <div align="left">
