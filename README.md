@@ -126,7 +126,7 @@
 ###
 
 <div align="left">
-  (https://github-readme-activity-graph.cyclic.app/graph?username=Sachinsharma01&theme=github-compact)
+  <img src='https://github-readme-activity-graph.cyclic.app/graph?username=Sachinsharma01&theme=github-compact' />
 </div>
 
 ###
