@@ -41,6 +41,8 @@
   </a>
 </div>
 
+![GitHub metrics](https://metrics.lecoq.io/Sachinsharma01) 
+
 
 ## 📘 My top open source projects
 
