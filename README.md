@@ -122,7 +122,7 @@
 <br />
 <br />
 <div align="center">
-  ![GitHub metrics](https://metrics.lecoq.io/Sachinsharma01) 
+  <img src='https://metrics.lecoq.io/Sachinsharma01' /> 
 </div>
 ###
 
