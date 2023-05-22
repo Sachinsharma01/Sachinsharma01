@@ -22,8 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="42" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"  />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/chai-original.svg" height="30" width="42" alt="bootstrap logo"  />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/mocha-original.svg" height="30" width="42" alt="bootstrap logo"  />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/slack-original.svg" height="30" width="42" alt="slack"  />
 </div>
 
 ###
