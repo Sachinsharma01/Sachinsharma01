@@ -63,7 +63,7 @@
 
 <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
 <p align="left">
-  <a href="https://github.com/keyshade-xyz/keyshade"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bobychaudhary&repo=Fullstack-practical2021&theme=midnight-purple&bg_color=DD272700&title_color=9746F5&icon_color=F8D866&show_icons=true" alt="github-readme-stats"></a>
+  <a href="https://github.com/keyshade-xyz/keyshade"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bobychaudhary&repo=keyshade&theme=midnight-purple&bg_color=DD272700&title_color=9746F5&icon_color=F8D866&show_icons=true" alt="github-readme-stats"></a>
   <a href="https://github.com/sagarBhardwaj5500/pizzavilla"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sagarBhardwaj5500&repo=pizzavilla&theme=midnight-purple&bg_color=DD272700&title_color=9746F5&icon_color=F8D866&show_icons=true" alt="shields"></a>
   <a href="https://github.com/vpinchaudhary/fullStackProject"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vpinchaudhary&repo=fullStackProject&theme=midnight-purple&bg_color=DD272700&title_color=9746F5&icon_color=F8D866&show_icons=true" alt="simple-icons"></a>
   <a href="https://github.com/NishantMishra-1/kloudclub"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NishantMishra-1&repo=kloudclub&theme=midnight-purple&bg_color=DD272700&title_color=9746F5&icon_color=F8D866&show_icons=true" alt="discord.py"></a>
